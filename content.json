@@ -1,0 +1,166 @@
+{
+  "title": "Dr. Lisa Mutschelknaus",
+  "header": {
+    "title": "Dr. Lisa Mutschelknaus"
+  },
+  "home": {
+    "academicTitle": "Dr. rer. nat.",
+    "firstname": "Lisa",
+    "lastname": "Mutschelknaus",
+    "skills": [
+      "Project manager. ",
+      "Scientist. ",
+      "Exosome expert. "
+    ]
+  },
+  "aboutMe": {
+    "profileImage": "lisa.jpg",
+    "headline": "Hey, I'm Lisa!",
+    "bullets": [
+      "Experienced project and portfolio manager",
+      "Strong focus on clinical application of diagnostic, preventive and therapeutic approaches",
+      "Molecular biologist with expertise in exosome research, oncology and translational science",
+      "Open-minded, highly motivated and pro-active personality",
+      "Enjoys working in inter-disciplinary teams on challenging projects"
+    ]
+  },
+  "cv": {
+    "image": "ousa-chea.jpg",
+    "headline": "Curriculum Vitae",
+    "items": [
+      {
+        "icon": "https://media.licdn.com/dms/image/C4D0BAQG6tzKDfF4puQ/company-logo_400_400/0?e=1557360000&v=beta&t=GHrl44VbOMVqro00ow7XVxSOW1tH-tJB5xww_z-6u1c",
+        "timeframe": {
+          "from": "Since",
+          "to": "Nov. 2017"
+        },
+        "company": "Helmholtz Zentrum München",
+        "jobSpecification": "Project manager/Scientist: Translational Research & Personalized Medicine",
+        "descriptions": [
+          "Portfolio management of translational research projects: scientific and administrative coordination and implementation (e.g. review process, budget planing and control, project monitoring)",
+          "Scientific communication",
+          "Implementation of new funding concepts",
+          "Development and execution of scientific concepts for personalized medicine"
+        ]
+      },
+      {
+        "icon": "https://media.licdn.com/dms/image/C4E0BAQEtded5tz2KpA/company-logo_400_400/0?e=1557360000&v=beta&t=aYZFGSUgCAPz20RGB7bqpq2usrg5wo_UDWEFeLi4PFc",
+        "timeframe": {
+          "from": "Nov. 2014 —",
+          "to": "Oct. 2017"
+        },
+        "company": "Technical University of Munich / Helmholtz Zentrum München",
+        "jobSpecification": "Doctorate (Dr. rer. nat.)",
+        "descriptions": [
+          "Scientist at the Institute of Radiation Biology (Helmholtz Center Munich) and PhD student (Dr. rer. nat.) at the Department of Medicine (TUM)",
+          "Research group: Clinical Radiation Biology",
+          "Field of studies: Functional analysis of head and neck cancer exosomes released in response to ionizing radiation",
+          "Enrolled at Helmholtz Graduate School (HELENA), TUM Graduate School and Helmholtz Research School of Radiation Biology (RS2)",
+          "Supervision of practical courses and master students"
+        ]
+      },
+      {
+        "icon": "https://media.licdn.com/dms/image/C4E0BAQEQp0_x9EPe2Q/company-logo_400_400/0?e=1557360000&v=beta&t=Q9nqDdKTQ2KvYo6p-0nbgIVGqZCYkRkeb_CcsSPQByU",
+        "timeframe": {
+          "from": "Oct. 2012 —",
+          "to": "Oct. 2014"
+        },
+        "company": "Ludwig-Maximilians University Munich",
+        "jobSpecification": "Master Studies of Biology Science (M.Sc.)",
+        "descriptions": [
+          "Topic of Master’s Thesis: ‘Characterization of extracellular microRNAs after irradiation of HNSCC cell lines’"
+        ]
+      },
+      {
+        "icon": "https://ilias.uni-konstanz.de/ilias/Customizing/global/skin/unikn/images/HeaderIcon.svg",
+        "timeframe": {
+          "from": "Oct. 2009 —",
+          "to": "Oct. 2012"
+        },
+        "company": "Universität Konstanz",
+        "jobSpecification": "Bachelor Studies of Biological Sciences (B.Sc.)",
+        "descriptions": [
+          "Topic of Bachelor’s Thesis: ‘Impact of the EGF-Receptor on the cellular answer to DNA-damage’"
+        ]
+      }
+    ]
+  },
+  "publications": {
+    "image": "elevate.jpg",
+    "headline": "Publications",
+    "items": [
+      {
+        "titel": "Radiation alters the cargo of exosomes released from squamous head and neck cancer cells to promote migration of recipient cells",
+        "authors": "Mutschelknaus, L., O. Azimzadeh, T. Heider, K. Winkler, M. Vetter, R. Kell, S. Tapio, J. Merl-Pham, S. Huber, L. Edalat, V. Radulovic, N. Anastasov, M. Atkinson, S. Moertl",
+        "date": "2017",
+        "journal": "Scientific Reports",
+        "url": "https://www.nature.com/articles/s41598-017-12403-6"
+      },
+      {
+        "titel": "Radiation induced transcriptional and post-transcriptional regulation of the hsa-miR-23a~ 27a~ 24-2 cluster suppresses apoptosis by stabilizing XIAP",
+        "authors": "Heider, T., L. Mutschelknaus, V. Radulović, K. Winkler, J. Kimmel, N. Anastasov, M. J. Atkinson",
+        "date": "2017",
+        "journal": "Biochimica et Biophysica Acta (BBA)-Gene Regulatory Mechanisms",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1874939917301281"
+      },
+      {
+        "titel": "Quantitative changes in the protein and miRNA cargo of plasma exosome-like vesicles after exposure to ionizing radiation",
+        "authors": "Yentrapalli, R., J. Merl-Pham, O. Azimzadeh, L. Mutschelknaus, C. Peters, S. M. Hauck, M. J. Atkinson, S. Tapio and S. Moertl",
+        "date": "2017",
+        "journal": "International Journal of Radiation Biology",
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/09553002.2017.1294772"
+      },
+      {
+        "titel": "MicroRNAs as novel elements in personalized radiotherapy",
+        "authors": "Moertl, S., L. Mutschelknaus, T. Heider and M. J. Atkinson",
+        "date": "2016",
+        "journal": "Translational Cancer Research",
+        "url": "http://tcr.amegroups.com/article/view/10576/html"
+      },
+      {
+        "titel": "Exosomes Derived from Squamous Head and Neck Cancer Promote Cell Survival after Ionizing Radiatio",
+        "authors": "Mutschelknaus, L., C. Peters, K. Winkler, R. Yentrapalli, T. Heider, M. J. Atkinson and S. Moertl",
+        "date": "2016",
+        "journal": "PLoS One",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152213"
+      }
+    ]
+  },
+  "highlights": {
+    "image": "tube-violet.jpg",
+    "headline": "Highlights",
+    "items": [
+      {
+        "title": "Poster Prize at the Extracellular Vesicles 2016 conference",
+        "subtitle": "Cambridge, United Kingdom"
+      },
+      {
+        "title": "Travel Award at the Annual Conference 2015 of the GBS (German Radiation Research Society) ",
+        "subtitle": "Dresden, Germany"
+      }
+    ]
+  },
+  "interests": {
+    "image": "singapore.jpg",
+    "headline": "Interests",
+    "items": [
+      "Acrylic paintings",
+      "Playing piano",
+      "Dancing",
+      "Traveling"
+    ]
+  },
+  "footer": {
+    "copyrightHolder": "Dr. Lisa Mutschelknaus",
+    "socialLinks": [
+      {
+        "icon": "mdi-linkedin-box",
+        "link": "https://www.linkedin.com/in/dr-lisa-mutschelknaus-077768108/"
+      },
+      {
+        "icon": "mdi-xing-box",
+        "link": "https://www.xing.com/profile/DrLisa_Mutschelknaus/cv"
+      }
+    ]
+  }
+}
