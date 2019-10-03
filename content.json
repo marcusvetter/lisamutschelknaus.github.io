@@ -29,13 +29,27 @@
     "headline": "Curriculum Vitae",
     "items": [
       {
+        "icon": "assets/logos/triga.jpeg",
+        "timeframe": {
+          "from": "Since",
+          "to": "Jul. 2019"
+        },
+        "company": "TRIGA-S Scientific Solutions",
+        "jobSpecification": "Clinical Study Manager / Project Manager",
+        "descriptions": [
+          "Clinical study management: Planning and conduction of clinical performance evaluation studies of in vitro diagnostica and medical devices according to new IVDR and MDR",
+          "Regulatory affairs",
+          "Business development"
+        ]
+      },
+      {
         "icon": "assets/logos/hmgu.jpeg",
         "timeframe": {
           "from": "Nov. 2017 —",
           "to": "Jun. 2019"
         },
         "company": "Helmholtz Zentrum München",
-        "jobSpecification": "Project manager/Scientist: Translational Research & Personalized Medicine",
+        "jobSpecification": "Project Manager / Scientist: Translational Research & Personalized Medicine",
         "descriptions": [
           "Portfolio management of translational research projects: scientific and administrative coordination and implementation (e.g. review process, budget planing and control, project monitoring)",
           "Scientific communication",
@@ -44,7 +58,7 @@
         ]
       },
       {
-        "icon": "assets/logos/hmgu.jpeg",
+        "icon": "assets/logos/tum.png",
         "timeframe": {
           "from": "Nov. 2014 —",
           "to": "Oct. 2017"
