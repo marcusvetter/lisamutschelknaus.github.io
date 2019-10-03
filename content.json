@@ -29,10 +29,10 @@
     "headline": "Curriculum Vitae",
     "items": [
       {
-        "icon": "https://media.licdn.com/dms/image/C4D0BAQG6tzKDfF4puQ/company-logo_400_400/0?e=1557360000&v=beta&t=GHrl44VbOMVqro00ow7XVxSOW1tH-tJB5xww_z-6u1c",
+        "icon": "assets/logos/hmgu.jpeg",
         "timeframe": {
-          "from": "Since",
-          "to": "Nov. 2017"
+          "from": "Nov. 2017 —",
+          "to": "Jun. 2019"
         },
         "company": "Helmholtz Zentrum München",
         "jobSpecification": "Project manager/Scientist: Translational Research & Personalized Medicine",
@@ -44,7 +44,7 @@
         ]
       },
       {
-        "icon": "https://media.licdn.com/dms/image/C4E0BAQEtded5tz2KpA/company-logo_400_400/0?e=1557360000&v=beta&t=aYZFGSUgCAPz20RGB7bqpq2usrg5wo_UDWEFeLi4PFc",
+        "icon": "assets/logos/hmgu.jpeg",
         "timeframe": {
           "from": "Nov. 2014 —",
           "to": "Oct. 2017"
@@ -60,7 +60,7 @@
         ]
       },
       {
-        "icon": "https://media.licdn.com/dms/image/C4E0BAQEQp0_x9EPe2Q/company-logo_400_400/0?e=1557360000&v=beta&t=Q9nqDdKTQ2KvYo6p-0nbgIVGqZCYkRkeb_CcsSPQByU",
+        "icon": "assets/logos/lmu.png",
         "timeframe": {
           "from": "Oct. 2012 —",
           "to": "Oct. 2014"
